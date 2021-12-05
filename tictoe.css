@@ -46,6 +46,9 @@
 .playerX{
     color: #09c372;
 }
+.playerO{
+    color: #E8F9D3;
+}
 .controls{
     display: flex;
     flex-direction: row;
